@@ -1,7 +1,3 @@
-
-![main](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg)
-![main push](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg?event=push)
-
 ---
 title: Demo
 emoji: 📈
@@ -13,5 +9,11 @@ app_file: app.py
 pinned: false
 license: cc
 ---
+
+
+![main](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg)
+
+![main push](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg?event=push)
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
