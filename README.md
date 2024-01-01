@@ -1,3 +1,7 @@
+
+![main](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg)
+![main push](https://github.com/ehamid/huggingface-demo/actions/workflows/main.yml/badge.svg?event=push)
+
 ---
 title: Demo
 emoji: 📈
